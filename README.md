@@ -1,6 +1,3 @@
-<p align="center">
-  
-</p>
 
 # about me
 ### i like building personal projects, playing with local ai, homelabbing and 3d printing
