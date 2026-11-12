@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=matty-pw&theme=github-dark&label=matty" width="100%" alt="matty" />
+  
 </p>
 
 # about me
